@@ -1,6 +1,6 @@
 # eyrc21_BM_2319
 e-yantra Robotics Competition 2021 <br>
-This contains some of my submissions
+This contains some videos of my submissions
 
 [![Watch the video](https://img.youtube.com/vi/OLKwmDgibGA/0.jpg)](https://youtu.be/OLKwmDgibGA?si=lrzUY4vmbFNp8jN_)
 
