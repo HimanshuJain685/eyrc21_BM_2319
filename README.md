@@ -2,11 +2,11 @@
 e-yantra Robotics Competition 2021 <br>
 This contains some videos of my submissions
 ## Task 1C
-https://img.youtube.com/vi/OLKwmDgibGA/0.jpg)](https://youtu.be/OLKwmDgibGA?si=lrzUY4vmbFNp8jN_  
+https://youtu.be/OLKwmDgibGA?si=FUPj66ItSy2VvodE  
 [![Watch the video](https://img.youtube.com/vi/OLKwmDgibGA/0.jpg)](https://youtu.be/OLKwmDgibGA?si=lrzUY4vmbFNp8jN_)
 ## Task 2B
-https://img.youtube.com/vi/batZ8M03np8/0.jpg)](https://youtu.be/batZ8M03np8?si=ujTKPg8MTy_9jAWd  
+https://youtu.be/batZ8M03np8?si=oLkuWhT_g9Ftsxt-   
 [![Watch the video](https://img.youtube.com/vi/batZ8M03np8/0.jpg)](https://youtu.be/batZ8M03np8?si=ujTKPg8MTy_9jAWd)
 ## Task 3
-https://img.youtube.com/vi/3lt9l_dmhYU/0.jpg)](https://youtu.be/3lt9l_dmhYU?si=scwA69e1643gUrEt  
+https://youtu.be/3lt9l_dmhYU?si=KA9giA3WmZ7SYQWY  
 [![Watch the video](https://img.youtube.com/vi/3lt9l_dmhYU/0.jpg)](https://youtu.be/3lt9l_dmhYU?si=scwA69e1643gUrEt)
